@@ -4,9 +4,9 @@
 
 A complete todo application with all features.
 
-**live demo: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)**
 
-**Watch On Youtube: [https://youtu.be/W0Uf_xu350k](https://youtu.be/W0Uf_xu350k)**
+
+
 
 ---
 
@@ -63,7 +63,7 @@ npm start
 
 ## Other projects
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
+
 
 ---
 
